@@ -10,7 +10,7 @@ here is my customary hello world message for my website.
 
 ---
 
-# hello world.
+#### hello world
 
 anyways, my site is far from complete as i have exams to study for. rip. 
 
