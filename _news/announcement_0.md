@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hello world
-date: 2024-19-06 19:50:00-0400
+date: 2024-06-19 19:50:00-0400
 inline: false
 related_posts: false
 ---
