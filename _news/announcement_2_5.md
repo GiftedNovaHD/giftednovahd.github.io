@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Hello World
+title: hello World
 date: 2024-06-15 16:11:00-0400
 inline: false
 related_posts: false
@@ -15,10 +15,8 @@ anyways, my site is far from complete as i have exams to study for. rip.
 #### hello world
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>this is my blog</li>
+    <li>i talk about stuff here</li>
 </ul>
 
 ---
