@@ -621,6 +621,7 @@ jsonresume:
   - awards
   - languages
   - interests
+  - projects
 
 # Changes for json resume: 
 # Removed: 
@@ -630,5 +631,3 @@ jsonresume:
 # - volunteer
 # - work
 # - publications
-# - projects
-# - interests 
