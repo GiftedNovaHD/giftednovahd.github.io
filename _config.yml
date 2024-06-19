@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Junxiang
+first_name: junxiang
 middle_name: 
-last_name: Cai
+last_name: cai
 email: cai_junxiang@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   jx's personal page :). based on [*folio](https://github.com/bogoli/-folio) design.
@@ -617,10 +617,7 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 jsonresume:
   - basics
-  - work
   - education
-  - publications
-  - projects
   - awards
   - languages
   - interests
@@ -631,3 +628,7 @@ jsonresume:
 # - skills
 # - certificates
 # - volunteer
+# - work
+# - publications
+# - projects
+# - interests 

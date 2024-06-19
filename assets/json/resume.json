@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "junxiang cai",
-    "label": "student",
+    "name": "Junxiang Cai",
+    "label": "Student",
     "image": "",
     "email": "cai_junxiang@outlook.com",
     "url": "https://giftednovahd.github.io/",
@@ -48,7 +48,7 @@
     { 
       "title": "Robotics and Intelligent Machines Category Award: 3rd prize", 
       "date": "2024-05", 
-      "awarder": "Society For Science and Regeneron", 
+      "awarder": "Society For Science and Regeneron Pharmaceuticals", 
       "summary": "woosh"
     },
     {
@@ -61,6 +61,7 @@
       "title": "National Security Agency Research Directorate Award: 3rd prize (Cybersecurity)", 
       "date": "2024-05", 
       "awarder": "National Security Agency", 
+      "url": "https://sos-vo.org/group/isef",
       "summary": "i love 3 letter agencies"
     },
     {
@@ -68,13 +69,6 @@
       "date": "2024-03", 
       "awarder": "Science Centre Singapore", 
       "summary": "yes"
-    },
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "publications": [
@@ -129,19 +123,11 @@
   ],
   "interests": [
     { 
-      "name": "ai", 
-      "icon":"fa-solid fa-laptop"
-    },
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "ai stuff", 
+      "icon":"fa-solid fa-laptop", 
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "representation learning", 
+        "efficient ml architectures"
       ]
     }
   ],
@@ -149,12 +135,11 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "my first research project",
+      "summary": "me and my research partner improved current state-space model architectures for sequence modeling. it took us around 2 months. it was rushed. i lost too much sleep because of this. at least this got into isef",
+      "highlights": ["structured state-space models", "mamba"],
+      "startDate": "2023-10-31",
+      "endDate": "2024-01-08"
     }
   ]
 }
