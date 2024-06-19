@@ -5,8 +5,8 @@ permalink: /
 subtitle: hi
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: # To add back align and image when i feel like it 
+  image: 
   image_circular: false # crops the image to make it circular
   more_info: 
 
